@@ -1,0 +1,45 @@
+_repo: D-Eon-de-Beaumont-his-life-and-times-b-Compiled-chiefly-from-unpublished-papers-and-letters_75490
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rieu, Alfred
+    gutenberg_agent_id: '58024'
+    url: http://www.gutenberg.org/2009/agents/58024
+creator:
+  authors:
+  - agent_name: Homberg, Octave
+    aliases:
+    - Homberg, Octave Marie Joseph Kérim
+    - Homberg, Octave Marie Joseph Kerim
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '53834'
+    url: http://www.gutenberg.org/2009/agents/53834
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Octave_Homberg
+    - https://fr.wikipedia.org/wiki/Octave_Homberg_(1876-1941)
+  - agent_name: Jousselin, Fernand
+    gutenberg_agent_id: '53835'
+    url: http://www.gutenberg.org/2009/agents/53835
+description: ''
+gutenberg_issued: '2025-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75490'
+language: en
+pgterms:marc904: https://ia800301.us.archive.org/33/items/deondebeaumonthi00hombrich/
+pgterms:marc905: 20230717231538homberg
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Super Queer Historian and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bMartin Secker, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'D''Eon de Beaumont, his life and times : $b Compiled chiefly from unpublished
+  papers and letters'
+url: http://www.gutenberg.org/ebooks/75490
