@@ -5,6 +5,9 @@ contributor:
     agent_name: Rieu, Alfred
     gutenberg_agent_id: '58024'
     url: http://www.gutenberg.org/2009/agents/58024
+covers:
+- cover_type: archival
+  image_path: 75490-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Homberg, Octave
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '53835'
     url: http://www.gutenberg.org/2009/agents/53835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75490#D-Eon-de-Beaumont-his-life-and-times-b-Compiled-chiefly-from-unpublished-papers-and-letters
 gutenberg_issued: '2025-02-28'
 gutenberg_type: Text
 identifiers:
